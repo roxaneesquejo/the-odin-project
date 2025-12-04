@@ -1,7 +1,5 @@
 # The Odin Project Journey
-by Roxane K-Anne D. Esquejo
-
-Welcome! This repository documents my progress through The Odin Project (https://www.theodinproject.com), which contains all the code for the projects and exercises I have completed.
+Welcome! I am RK-ADE, a first year Computer Science student. This repository documents my progress through The Odin Project (https://www.theodinproject.com), containing all the code for the projects and exercises I have completed. This repository is still a work in progress, as I am yet to complete the curriculum.
 
 ## About The Odin Project
 The Odin Project provides a free open source coding curriculum  taken entirely online. It focuses on a full-stack curriculum (HTML, CSS, JavaScript, Ruby on Rails, or Node.js).
@@ -21,4 +19,4 @@ The Odin Project provides a free open source coding curriculum  taken entirely o
 * **JavaScript:** DOM manipulation, functions, and loops.
 
 ---
-*Created by Roxane K-Anne D. Esquejo
+*Created by [Roxane K-Anne D. Esquejo]
