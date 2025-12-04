@@ -19,4 +19,4 @@ The Odin Project provides a free open source coding curriculum  taken entirely o
 * **JavaScript:** DOM manipulation, functions, and loops.
 
 ---
-*Created by [Roxane K-Anne D. Esquejo]*
+*Created by Roxane K-Anne D. Esquejo*
